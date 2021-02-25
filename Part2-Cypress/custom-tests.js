@@ -86,7 +86,6 @@ describe('Party Horn Tests', () => {
   })
 
  it('Check if an error is shown when a number is typed outside of the given range for the volume textbox input',() => {
-    //cy.get('#volume-number').clear().type('-10');
     cy.get('#party-horn-form').within( () => {
       cy.get('#volume-number').clear().type('-10');
       cy.get('#volume-number').invoke('prop','validationMessage')
