@@ -96,6 +96,4 @@ describe('Party Horn Tests', () => {
     })
   })
   
-  
-  
 });
