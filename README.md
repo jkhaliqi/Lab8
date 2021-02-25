@@ -1,4 +1,5 @@
 # Lab8
 
-Collaborators : Jacob Khaliqi (A16082977) 
+Name: Jacob Khaliqi 
+PID : A16082977
 
